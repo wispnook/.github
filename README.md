@@ -1,0 +1,2 @@
+# .github
+Wispnook project root
